@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/36bc4f91-87a2-4614-aeb5-e57bfe259a98)The Sticker Shop Tryhackme 09/12/2024  
+The Sticker Shop Tryhackme 09/12/2024  
 (This is a personal writeup to be consulted later)  
 
 This is the website of the challenge , to get the flag , we need to access http://10.10.250.141:8080/flag.txt  
